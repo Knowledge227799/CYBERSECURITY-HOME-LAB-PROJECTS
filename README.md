@@ -25,3 +25,4 @@ These findings strongly suggesst email spoofing and demonstrate how authenticati
 - Automate header parsing with scripts
 - Compare results across different tools
 - Build detection rules for a SIEM
+<img width="1140" height="821" alt="Capture" src="https://github.com/user-attachments/assets/c22eecb8-e2a9-4021-bb11-f4aece720af8" />
